@@ -1,5 +1,4 @@
 /**
-/**
 * Returns a random number between min (inclusive) and max (exclusive)
 */
 function randArbitrary(min, max) {
